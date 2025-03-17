@@ -28,3 +28,6 @@ Sou um estudante de desenvolvimento de software apaixonado por tecnologia e semp
 
 ### 📫 Como me encontrar?
 Se quiser bater um papo sobre desenvolvimento ou trocar ideias, me encontre no LinkedIn ou GitHub! 🚀
+
+### 🐍 Urutu ta dentro do mato
+![Snake animation](https://github.com/Jefte-Souza/Jefte-Souza/blob/output/github-contribution-grid-snake.svg)
