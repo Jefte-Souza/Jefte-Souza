@@ -6,7 +6,7 @@
 ### 🚀 Sobre mim
 Sou um estudante de desenvolvimento de software fascinado por tecnologia e  e inovação sempre buscando aprender coisas novas.
 
-- 📚 Atualmente estudando: **Java, JavaScript, HTML, CSS e GDScript**
+- 📚 Atualmente estudando: **Java, JavaScript, HTML, CSS**
 - 💡 Interessado em **Desenvolvimento Front-End e Back-End**
 - 🎯 Objetivo: Me tornar um desenvolvedor contratado
 - 🎮 As vezes eu faço jogos
@@ -19,7 +19,7 @@ Sou um estudante de desenvolvimento de software fascinado por tecnologia e  e in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" alt="Godot" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg"  height="40" alt="Unreal engine"/>        
 </div>
 
 ##
