@@ -22,6 +22,11 @@ Sou um estudante de desenvolvimento de software fascinado por tecnologia e inova
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" height="40" alt="Unreal engine"/>                             
 </div>
 
+<div align="right">
+  <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" alt="Hacker Man" height="100"/>
+</div>
+
+
 ##
 ### 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jefte-souza&show_icons=true&theme=ambient_gradient)
