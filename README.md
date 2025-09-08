@@ -4,12 +4,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefte-souza-borges-117243299)
 
 ### 🛸 Sobre mim
-Sou um estudante de desenvolvimento de software fascinado por tecnologia e inovação sempre buscando aprender coisas novas.
+Sou um estudante de desenvolvimento de software fascinado por tecnologia sempre buscando aprender coisas novas.
 
 -  Atualmente estudando: **Java, JavaScript, HTML, CSS, php, react**
 -  Interessado em **Desenvolvimento Front-End e Back-End**
 -  Objetivo: Me tornar um desenvolvedor contratado
--  Também tenho interasse em desenvolvimento de jogos na **Unreal Engine**
+-  Também tenho interasse em desenvolvimento de jogos com a **Unreal Engine**
 
 ### 🛠️ Tecnologias e Ferramentas
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
