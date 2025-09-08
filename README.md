@@ -3,13 +3,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jefte-Souza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefte-souza-borges-117243299)
 
-### 🚀 Sobre mim
+### 🛸 Sobre mim
 Sou um estudante de desenvolvimento de software fascinado por tecnologia e inovação sempre buscando aprender coisas novas.
 
-- 📚 Atualmente estudando: **Java, JavaScript, HTML, CSS**
-- 💡 Interessado em **Desenvolvimento Front-End e Back-End**
-- 🎯 Objetivo: Me tornar um desenvolvedor contratado
-- 🎮  Nas horas vagas, estudo sobre desenvolvimento de jogos na **Unreal Engine**
+-  Atualmente estudando: **Java, JavaScript, HTML, CSS, php, react**
+-  Interessado em **Desenvolvimento Front-End e Back-End**
+-  Objetivo: Me tornar um desenvolvedor contratado
+-  Também tenho interasse em desenvolvimento de jogos na **Unreal Engine**
 
 ### 🛠️ Tecnologias e Ferramentas
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
