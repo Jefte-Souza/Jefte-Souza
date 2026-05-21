@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefte-souza-borges-117243299)
 
 ### 🛸 Sobre mim
-Sou um estudante de desenvolvimento de software fascinado por tecnologia sempre buscando aprender coisas novas.
+Sou um estudante de ciências da computação fascinado por tecnologia e sempre buscando aprender coisas novas.
 
 -  Atualmente estudando: **Java, JavaScript, HTML, CSS, php, react**
 -  Interessado em **Desenvolvimento Front-End e Back-End**
@@ -26,11 +26,12 @@ Sou um estudante de desenvolvimento de software fascinado por tecnologia sempre 
   <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" alt="Hacker Man" height="100"/>
 </div>
 
-
-##
 ### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jefte-souza&show_icons=true&theme=ambient_gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefte-souza&layout=compact&theme=ambient_gradient)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jefte-souza&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jefte-souza&layout=compact&theme=tokyonight)
+##
 
 ### 📫 Como me encontrar?
 Se quiser bater um papo sobre desenvolvimento ou trocar ideias, me encontre no LinkedIn ou GitHub! 🚀
